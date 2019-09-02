@@ -4,5 +4,4 @@ Welcome to my technical resume on Github. This repository displays the technical
 
 I have completed the following courses:
 
-GitHub:
-
+GITHUB:
