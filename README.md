@@ -4,7 +4,7 @@ Welcome to my technical resume on GitHub. This repository displays the technical
 
 I have completed the following training:
 
-_GitHub_
+# _GitHub_
 
 I have completed the following courses offered through the website lab.github.com. 
 
