@@ -1,4 +1,4 @@
-# Shivani Banerjee's Technical Resume
+# Shivani Banerjee
 
 ## Welcome to my technical resume on GitHub. This repository displays the technical skills I have acquired through my coursework.
 
