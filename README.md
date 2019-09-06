@@ -22,3 +22,23 @@ I have completed the following courses offered through the website lab.github.co
 - Managing merge conflicts
 - Securing your workflows
 
+# Shivani Banerjee's Technical Resume
+
+
+<details closed="">
+     <summary><b>GitHub</b></summary>
+     <br />
+     <p>Courses completed include:
+     <ul>
+    <li>Uploading your project to GitHub</li>
+    <li>Communicating using Markdown</li>
+    <li>GitHub Pages</li>
+    <li>Reviewing pull requests</li>
+    <li>Managing merge conflicts</li>
+    <li>Securing your workflows</li>
+    </ul>
+     <img src="FirstDay.png" alt="First Day on GitHub" width="600" height="400" border="2" />
+     <img src="FirstWeek.png" alt="First Week on GitHub" width="600" height="400" border="2" />
+     </p>
+    </details>
+
