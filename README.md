@@ -1,6 +1,6 @@
 # Shivani Banerjee's Technical Resume
 
-Welcome to my technical resume on GitHub. This repository displays the technical skills I have acquired through my coursework.
+## Welcome to my technical resume on GitHub. This repository displays the technical skills I have acquired through my coursework.
 
 I have completed the following training:
 
@@ -9,12 +9,13 @@ I have completed the following training:
      <br />
      <p>Courses completed include:
      <ul>
-          *First Day on GitHub*
+          <h3>First Day on GitHub</h3>
           <li>Introduction to GitHub</li>
           <li>Communicating using Markdown</li>
           <li>Uploading your project on GitHub</li>
           <img src="FirstDay.png" alt="First Day on GitHub" width="600" height="400" border="2" />
-          *First Week on GitHub*
+          <br />
+          <h3>First Week on GitHub</h3>
           <li>GitHub Pages</li>
           <li>Reviewing pull requests</li>
           <li>Managing merge conflicts</li>
