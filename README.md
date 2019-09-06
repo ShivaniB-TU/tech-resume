@@ -17,6 +17,7 @@ I have completed the following training:
           <br />
           <img src="FirstDay.png" alt="Proof of Completion" width="1280" height="640" border="2" />
           <br />
+          <br/>
           <h3>First Week on GitHub</h3>
           <li>GitHub Pages</li>
           <li>Reviewing pull requests</li>
