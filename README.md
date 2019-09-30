@@ -31,7 +31,7 @@ The following are the skills that I have acquired throughout the semester:
     </details>
     </br>
     <details closed="">
-     <summary><b>TIBCO Spotfire</b></summary>
+     <summary><c>TIBCO Spotfire</c></summary>
      <br />
      <ul>
           <h3>Well Analysis Dashboard</h3>
