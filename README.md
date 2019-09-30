@@ -40,7 +40,9 @@ The following are the skills that I have acquired throughout the semester:
           <br />
           <p>I was introduced to TIBCO Spotfire at the start of my summer internship in 2019. With no prior experience, I was able to create a dashboard, to fit a clients needs. Using those skills, I was able to create another dashbaord using public data available on IHS Markit. To view a video I created to describe my dashboard, please click the following link: </p>
           <br />
-          <img src="FirstDay.png" alt="Proof of Completion" width="500" height="350" border="2" />
+          <img src="home.png" alt="Proof of Completion" width="500" height="350" border="2" />
+          <img src="summary.png" alt="Proof of Completion" width="500" height="350" border="2" />
+          <img src="analysis.png" alt="Proof of Completion" width="500" height="350" border="2" />
           <br />
          
          
