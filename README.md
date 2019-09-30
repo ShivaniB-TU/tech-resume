@@ -15,7 +15,7 @@ The following are the skills that I have acquired throughout the semester:
           <br />
           <p>In summary, this course has taught me how to navigate around GitHub. The navigation was focused on uploading projects/ files with data that was on my local desktop.</p>
           <br />
-          <img src="FirstDay.png" alt="Proof of Completion" width="300" height="150" border="2" />
+          <img src="FirstDay.png" alt="Proof of Completion" width="300" height="125" border="2" />
           <br />
           <br/>
           <h3>First Week on GitHub</h3>
@@ -26,7 +26,7 @@ The following are the skills that I have acquired throughout the semester:
           <br />
           <p>In summary, this course has taught me how to utilize uploading a project onto GitHub in a systematic manner. This is useful because I learned how to maximize my learning by using pull requests to see the changes I have made in the duration of my project. This is also useful for others to view my learning curve when viewing my projects.</p>
           <br />
-          <img src="FirstWeek.png" alt="Proof of Completion" width="300" height="150" border="2" />
+          <img src="FirstWeek.png" alt="Proof of Completion" width="300" height="125" border="2" />
     </ul>
     </details>
     </br>
