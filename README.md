@@ -45,6 +45,5 @@ The following are the skills that I have acquired throughout the semester:
          
          
    </ul>
-   </details>
-   <details closed="">
+   
 
