@@ -1,10 +1,10 @@
-# Shivani Banerjee
+<h1> Shivani Banerjee's Technical Skills Resume </h1>
 
-## Welcome to my technical resume on GitHub. This repository displays the technical skills I have acquired through my coursework.
+<h2> Welcome to my technical resume on GitHub. This repository displays the technical skills I have acquired. </h2>
 
 The following are the skills that I have acquired throughout the semester:
 
-<details closed="">
+<details><summary> Github </summary>
      <summary><b>GitHub</b></summary>
      <br />
      <ul>
@@ -30,8 +30,7 @@ The following are the skills that I have acquired throughout the semester:
     </ul>
     </details>
     </br>
-    <details closed="">
-     <summary><b>TIBCO Spotfire</b></summary>
+    <details><summary>TIBCO Spotfire</summary>
      <br />
      <ul>
           <h3>Well Analysis Dashboard</h3>
