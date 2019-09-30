@@ -31,7 +31,7 @@ The following are the skills that I have acquired throughout the semester:
     </details>
     </br>
     <details closed="">
-     <summary><c>TIBCO Spotfire</c></summary>
+     <summary><b>TIBCO Spotfire</b></summary>
      <br />
      <ul>
           <h3>Well Analysis Dashboard</h3>
@@ -44,7 +44,7 @@ The following are the skills that I have acquired throughout the semester:
           <img src="home.png" alt="Proof of Completion" width="300" height="150" border="2" />
           <img src="summary.png" alt="Proof of Completion" width="300" height="150" border="2" />
           <img src="analysis.png" alt="Proof of Completion" width="300" height="150" border="2" />
-          <br />
    </ul>
+   </details>
    
 
