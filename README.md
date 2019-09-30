@@ -34,15 +34,15 @@ The following are the skills that I have acquired throughout the semester:
      <br />
      <ul>
           <h3>Acreage Screening</h3>
-          <li>Introduction to GitHub</li>
-          <li>Communicating using Markdown</li>
-          <li>Uploading your project on GitHub</li>
+          <li>Able to import data</li>
+          <li>Able to script ironPython for advanced abilities</li>
+          <li>Able to create visualizations to easily aggregate data</li>
           <br />
-          <p>In summary, this course has taught me how to navigate around GitHub. The navigation was focused on uploading projects/ files with data that was on my local desktop.</p>
+          <p>I was introduced to TIBCO Spotfire at the start of my summer internship in 2019. With no prior experience, I was able to create a dashboard, to fit a clients needs. Using those skills, I was able to create another dashbaord using public data available on IHS Markit. To view a video I created to describe my dashboard, please click the following link: </p>
           <br />
           <img src="FirstDay.png" alt="Proof of Completion" width="500" height="350" border="2" />
           <br />
-          <br/>
+         
          
    </ul>
    </details>
