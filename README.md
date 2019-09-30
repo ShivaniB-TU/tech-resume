@@ -45,8 +45,6 @@ The following are the skills that I have acquired throughout the semester:
           <img src="summary.png" alt="Proof of Completion" width="300" height="150" border="2" />
           <img src="analysis.png" alt="Proof of Completion" width="300" height="150" border="2" />
           <br />
-         
-         
    </ul>
    
 
