@@ -45,6 +45,6 @@ The following are the skills that I have acquired throughout the semester:
           <li>Security and file permissions</li>
 <p>This course was a 16-hour path towards learning the foundation of understanding and utilizing Linux. Not only did it teach me the importance and growth Linux is impacting with many businesses, but also how to use Linux for personal repositories. Understanding the command line will be an ongoing process but the course is very rewarding with many challenging labs (e.g. finding and searching for hardware information, or specific data in files, etc).</p>
           <br />
-          <img src="linuxEssentials.png" alt="Proof of Completion" width="300" height="150" border="2" />
+          <img src="linuxEssentials.jpeg" alt="Proof of Completion" width="200" height="150" border="2" />
    </ul>
   </details>
