@@ -51,7 +51,6 @@ The following are the skills that I have acquired throughout the semester:
   </br>
     <details><summary>Algo VPN</summary>
      <ul>
-          </br>
           <b>Using linux for creating an Algo VPN</b>
           <li>Downloaded VirtualBox to test my Linux knowledge</li>
           <li>Downloaded Ubuntu and connected and installed it onto Virtual Bpox</li>
@@ -59,7 +58,7 @@ The following are the skills that I have acquired throughout the semester:
 <p>The point of this excersise was to challenging but useful to learn how to make my own VPN using DigitalOcean and a linux system. Whilst utilizing Ubuntu when installed into virtual box, I was able to share files from my host device (my laptop) to my virtual disk. Additionally, I created my own Algo VPN that, with my DigitalOcean supported IP network, to verify the connection. </p>
           <img src="done.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="proof of connection.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
-          <img src="congrats.PNG" alt="Proof of Completion" width="300" height="150" border="2" />
+          <img src="congrats.PNG" alt="Proof of Completion" width="150" height="150" border="2" />
    </ul>
   </details>
 
