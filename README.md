@@ -46,10 +46,7 @@ The following are the skills that I have acquired throughout the semester:
 <p>This course was a 16-hour path towards learning the foundation of understanding and utilizing Linux. Not only did it teach me the importance and growth Linux is impacting with many businesses, but also how to use Linux for personal repositories. Understanding the command line will be an ongoing process but the course is very rewarding with many challenging labs (e.g. finding and searching for hardware information, or specific data in files, etc).</p>
           <br />
           <img src="linuxEssentials.jpeg" alt="Proof of Completion" width="200" height="150" border="2" />
-   </ul>
-  </details>
-    <details><summary>Algo VPN</summary>
-     <ul>
+          <br/>
           <b>Using linux for creating an Algo VPN</b>
           <li>Downloaded VirtualBox to test my Linux knowledge</li>
           <li>Downloaded Ubuntu and connected and installed it onto Virtual Bpox</li>
