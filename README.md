@@ -58,7 +58,7 @@ The following are the skills that I have acquired throughout the semester:
           <br />
           <img src="done.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="proof of connection.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
-          <img src="congrats.PNG" alt="Proof of Completion" width="300" height="250" border="2" />
+          <img src="congrats.PNG" alt="Proof of Completion" width="300" height="150" border="2" />
    </ul>
   </details>
 
