@@ -65,7 +65,7 @@ The following are the skills that I have acquired throughout the semester:
           <li>Utilize the different services AWS has to offer</li>
 <p>This course was a 15-hour path towards learning the foundation of understanding and utilizing AWS. With no prior experience with using AWS, I have completed the classes, hands-on-labs and multiple quizzes to test my ability of creating and managing Database services, Storage services, and Instances. Additionally, I now understand how to manage notifications, CloudWatch and Lambda with emphasise to Route 53 and auto scaling.</p>
           <br />
-          <img src="aws.PNG" alt="Proof of Completion" width="200" height="150" border="2" />
+          <img src="aws.png" alt="Proof of Completion" width="200" height="150" border="2" />
    </ul>
   </details>
 
