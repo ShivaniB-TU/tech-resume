@@ -76,7 +76,7 @@ The following are the skills that I have acquired throughout the semester:
           <li>Able to create visualizations to easily aggregate data</li>
 <p>This course was supposed to be a quick training on Powershell however, after running Powershell on my laptop and working the video's individually, this course was engaging but energizing in the sense that it was a simple once understanding the basics. This course on LinkedIn provided me assistance with simple navigation, to learning from the actual software from the supportive help system and the adptable snap-ins, to even understanding and extending onto remote management.</p>
           <br />
-          <img src="powershell.png" alt="Proof of Completion" width="300" height="150" border="2" />
+          <img src="powershell.png" alt="Proof of Completion" width="300" height="250" border="2" />
    </ul>
   </details>
 
