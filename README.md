@@ -81,7 +81,7 @@ The following are the skills that I have learned throughout the semester:
   </details>
    <details><summary>Salesforce</summary>
      <ul>
-          <b>Trailhead Salesforce Admin Beginner Course/b>
+          <b>Trailhead Salesforce Admin Beginner Course</b>
           <li>Data modeling, management and aggregation</li>
           <li>Working in favor of client preferences</li>
           <li>Understand and make use of lightening experience</li>
