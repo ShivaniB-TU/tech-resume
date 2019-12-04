@@ -2,7 +2,7 @@
 
 <h2> Welcome to my technical resume on GitHub. This repository displays the technical skills I have acquired. </h2>
 
-The following are the skills that I have acquired throughout the semester:
+The following are the skills that I have learned throughout the semester:
 
 <details><summary> Github</summary>
      <ul>
@@ -10,7 +10,7 @@ The following are the skills that I have acquired throughout the semester:
           <li>Introduction to GitHub</li>
           <li>Communicating using Markdown</li>
           <li>Uploading your project on GitHub</li>
-<p>In summary, this course has taught me how to navigate around GitHub. The navigation was focused on uploading projects/ files with data that was on my local desktop.</p>
+<p>In summary, this course has taught me how to navigate around GitHub. The navigation was focused on uploading projects/ files with data that was on my local desktop. Furthermore, it taught me how to communicate with other users and do group projects to join files creating a shared project.</p>
           <br />
           <img src="FirstDay.png" alt="Proof of Completion" width="200" height="150" border="2" />
           <br />
@@ -74,9 +74,20 @@ The following are the skills that I have acquired throughout the semester:
           <li>Using basic and complex commands</li>
           <li>Exploring automation</li>
           <li>Able to create visualizations to easily aggregate data</li>
-<p>This course was supposed to be a quick training on Powershell however, after running Powershell on my laptop and working the video's individually, this course was engaging but energizing in the sense that it was a simple once understanding the basics. This course on LinkedIn provided me assistance with simple navigation, to learning from the actual software from the supportive help system and the adptable snap-ins, to even understanding and extending onto remote management.</p>
+<p>This course served its purpose as a quick training on Powershell however. After running Powershell on my laptop and working the video's individually, I understood how to run my personal commands very easily after looking further into the basic capabilities. This course on LinkedIn provided me assistance with simple navigation, to learning from the actual software from the supportive help system and the adptable snap-ins, to even understanding and extending onto remote management.</p>
           <br />
           <img src="powershell.png" alt="Proof of Completion" width="300" height="250" border="2" />
+   </ul>
+  </details>
+   <details><summary>Salesforce</summary>
+     <ul>
+          <b>Trailhead Salesforce Admin Beginner Course/b>
+          <li>Data modeling, management and aggregation</li>
+          <li>Working in favor of client preferences</li>
+          <li>Understand and make use of lightening experience</li>
+<p>This interactive course consisted of labs and quizzes to help me master the Salesforce Platform. With only ever migrating data from Salesforce onto Spotfire, it was very interesting to know how to create dashboards with visual analytics within the platform itself. Furthermore, I was able to take advantage of the basic feautures of Salesforce and customize them from an Admin standpoint. I was able to work through the challenges to customize the desktop AND mobile templates to include advanced features such as quick action buttons, dynamic help menus, personable reports from data that I imported and/ or exported to/ from the Salesforce system.</p>
+          <br />
+          <img src="salesforce.png" alt="Proof of Completion" width="200" height="75" border="2" />
    </ul>
   </details>
 
