@@ -72,10 +72,10 @@ The following are the skills that I have learned throughout the semester:
           <li>Created a Virtual Private CLoud with Internet Gateways</li>
           <li>Utilized IAM (Identity and Access Management)</li>
 <p>The point of this excersise was to challenging but useful to learn how to make my own VPN using Amazon Web Services and a linux system. Whilst utilizing Ubuntu when installed into virtual box, I was able to share files from my host device (my laptop) to my virtual disk. Additionally, I created my own Algo VPN that, with my AWS E2 Instance supported IP network, to verify the connection. </p>
-          <img src="awsconsole.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
-          <img src="e2instance.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
-          <img src="awsdescription.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
-          <img src="AWSconnection.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
+          <img src="awsconsole.png" alt="Proof of Completion" width="250" height="150" border="2" />
+          <img src="e2instance.png" alt="Proof of Completion" width="250" height="150" border="2" />
+          <img src="awsdescription.png" alt="Proof of Completion" width="250" height="150" border="2" />
+          <img src="AWSconnection.png" alt="Proof of Completion" width="250" height="150" border="2" />
    </ul>
   </details>
    <details><summary>Powershell</summary>
