@@ -1,8 +1,8 @@
 <h1> Shivani Banerjee's Technical Skills Resume </h1>
 
-<h2> Welcome to my technical resume on GitHub. This repository displays the technical skills I have acquired. </h2>
+<h2> Welcome to my technical resume on GitHub. </h2>
 
-The following are the skills that I have learned throughout the semester:
+This repository displays the technical skills I have learned throughout the last few months. 
 
 <details><summary> Github</summary>
      <ul>
