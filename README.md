@@ -47,9 +47,9 @@ The following are the skills that I have learned throughout the semester:
           <br />
           <img src="linuxEssentials.jpeg" alt="Proof of Completion" width="200" height="150" border="2" />
           <br/>
-          <b>Using linux for creating an Algo VPN</b>
+          <b>Using linux for creating an Algo VPN using Digital Ocean</b>
           <li>Downloaded VirtualBox to test my Linux knowledge</li>
-          <li>Downloaded Ubuntu and connected and installed it onto Virtual Bpox</li>
+          <li>Downloaded Ubuntu and connected and installed it onto Virtual Box</li>
           <li>Created a VPN network with usernames and passwords</li>
 <p>The point of this excersise was to challenging but useful to learn how to make my own VPN using DigitalOcean and a linux system. Whilst utilizing Ubuntu when installed into virtual box, I was able to share files from my host device (my laptop) to my virtual disk. Additionally, I created my own Algo VPN that, with my DigitalOcean supported IP network, to verify the connection. </p>
           <img src="done.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
@@ -57,7 +57,7 @@ The following are the skills that I have learned throughout the semester:
           <img src="congrats.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
    </ul>
   </details>
-   <details><summary>Amazon Web Services</summary>
+   <details><summary>Amazon Web Services (AWS)</summary>
      <ul>
           <b>LinuxAcademy AWS Essentials Certification</b>
           <li>Mavigate around the AWS console</li>
@@ -66,6 +66,16 @@ The following are the skills that I have learned throughout the semester:
 <p>This course was a 15-hour path towards learning the foundation of understanding and utilizing AWS. With no prior experience with using AWS, I have completed the classes, hands-on-labs and multiple quizzes to test my ability of creating and managing Database services, Storage services, and Instances. Additionally, I now understand how to manage notifications, CloudWatch and Lambda with emphasise to Route 53 and auto scaling.</p>
           <br />
           <img src="aws.png" alt="Proof of Completion" width="200" height="150" border="2" />
+          <br/>
+          <b>Using linux for creating an Algo VPN using AWS</b>
+          <li>Created an E2 AWS console</li>
+          <li>Created a Virtual Private CLoud with Internet Gateways</li>
+          <li>Utilized IAM (Identity and Access Management)</li>
+<p>The point of this excersise was to challenging but useful to learn how to make my own VPN using Amazon Web Services and a linux system. Whilst utilizing Ubuntu when installed into virtual box, I was able to share files from my host device (my laptop) to my virtual disk. Additionally, I created my own Algo VPN that, with my AWS E2 Instance supported IP network, to verify the connection. </p>
+          <img src="awsconsole.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
+          <img src="e2instance.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
+          <img src="awsdescription.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
+          <img src="AWSconnection.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
    </ul>
   </details>
    <details><summary>Powershell</summary>
