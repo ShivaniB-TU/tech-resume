@@ -69,9 +69,9 @@ This repository displays the technical skills I have learned throughout the last
           <br/>
           <b>VPNs using AWS</b>
           <li>Created an E2 AWS console</li>
-          <li>Created a Virtual Private CLoud with Internet Gateways</li>
+          <li>Created a Virtual Private Cloud with Internet Gateways</li>
           <li>Utilized IAM (Identity and Access Management)</li>
-<p>Simlarly to the ALgo VPN I created using DigitalOcean, I was able to create my own Algo VPN Server, and deploy it in the AWS cloud host. However, this time I did this in two different ways. The first way was very similar to how I deployed my own Algo VPN server onto the DigitalOcean cloud, however this time I deployed it on an AWS cloud. Additionally, the other way I created my second personal VPN was by using an EC2 instance and an OpenVPN. After configuring my EC2 instance, creating security groups and creating an elastic IP I was able to disable public access to the VPN allowing only the users I created to use the private, safe network.</p>
+<p>Simlarly to the Algo VPN I created using DigitalOcean, I was able to create my own Algo VPN Server, and deploy it in the AWS cloud host. However, this time I did this in two different ways. The first way was very similar to how I deployed my own Algo VPN server onto the DigitalOcean cloud, however this time I deployed it on an AWS cloud. Additionally, the other way I created my second personal VPN was by using an EC2 instance and an OpenVPN. After configuring my EC2 instance, creating security groups and creating an elastic IP I was able to disable public access to the VPN allowing only the users I created to use the private, safe network.</p>
           <img src="awsconsole.png" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="e2instance.png" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="awsdescription.png" alt="Proof of Completion" width="250" height="150" border="2" />
