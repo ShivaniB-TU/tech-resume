@@ -30,7 +30,7 @@ This repository displays the technical skills I have learned throughout the last
           <li>Import multiple tables from multiple sources</li>
           <li>Able to script ironPython for advanced abilities</li>
           <li>Able to create visualizations to easily aggregate data</li>
-<p>I was introduced to TIBCO Spotfire at the start of my summer internship in 2019. With no prior experience, I was able to create a dashboard template that would benefit multiple clients. Using those skills, I was able to create another dashbaord using public data available on IHS Markit. To view a video I created to describe my dashboard, please click <a href="https://youtu.be/XMkqa9U6uO0">here.</a></p>
+<p>I was introduced to TIBCO Spotfire at the start of my summer internship in 2019. With no prior experience, I was able to create a dashboard template that would benefit multiple clients. Using those skills, I was able to create another dashbaord using public data available on IHS Markit. The data source in this instance is a flat file from Excel. The reason why I built a dashbaord on Spotfire was because I was able to pull out the specific data I wanted without going through millions of values in a table. In the video, I was able to take only 2 columns to visually locate where different wells are on a map - all within one click of a button. To see a demo of my dashboard, please click <a href="https://youtu.be/XMkqa9U6uO0">here.</a></p>
           <br />
           <img src="home.png" alt="Proof of Completion" width="300" height="150" border="2" />
           <img src="summary.png" alt="Proof of Completion" width="300" height="150" border="2" />
@@ -51,7 +51,7 @@ This repository displays the technical skills I have learned throughout the last
           <li>Use Linux on Oracle's VirtualBox</li>
           <li>Connect Ubuntu with Oracle's VirtualBox</li>
           <li>Created a VPN network using DigitalOcean</li>
-<p>The following pictures prove my sucess in configuring my own Algo VPN using DigitalOcean. This Linux system not only allowed me to create a virtual disk image on a Linux system, but also share files within my personal laptop and my virtual disk. DigitalOcean was the server  The point of this excersise was to challenging but useful to learn how to make my own VPN using DigitalOcean and a linux system. Whilst utilizing Ubuntu when installed into virtual box, I was able to share files from my host device (my laptop) to my virtual disk. Additionally, I created my own Algo VPN that, with my DigitalOcean supported IP network, to verify the connection. </p>
+<p>The following pictures prove my sucess in configuring my own Algo VPN using DigitalOcean. This Linux system not only allowed me to create a virtual disk image on a Linux system, but also share files within my personal laptop and my virtual disk. Through creating my own cloud on DigitalOcean, I deploed my own Algo VPN server.Self-hosting this VPN taught me how to deploy my own private key as well.  Thus, I created a safe environment for my own network use.</p>
           <img src="done.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="proof of connection.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="congrats.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
@@ -67,11 +67,11 @@ This repository displays the technical skills I have learned throughout the last
           <br />
           <img src="aws.png" alt="Proof of Completion" width="200" height="150" border="2" />
           <br/>
-          <b>Using linux for creating an Algo VPN using AWS</b>
+          <b>VPNs using AWS</b>
           <li>Created an E2 AWS console</li>
           <li>Created a Virtual Private CLoud with Internet Gateways</li>
           <li>Utilized IAM (Identity and Access Management)</li>
-<p>The point of this excersise was to challenging but useful to learn how to make my own VPN using Amazon Web Services and a linux system. Whilst utilizing Ubuntu when installed into virtual box, I was able to share files from my host device (my laptop) to my virtual disk. Additionally, I created my own Algo VPN that, with my AWS E2 Instance supported IP network, to verify the connection. </p>
+<p>Simlarly to the ALgo VPN I created using DigitalOcean, I was able to create my own Algo VPN Server, and deploy it in the AWS cloud host. However, this time I did this in two different ways. The first way was very similar to how I deployed my own Algo VPN server onto the DigitalOcean cloud, however this time I deployed it on an AWS cloud. Additionally, the other way I created my second personal VPN was by using an EC2 instance and an OpenVPN. After configuring my EC2 instance, creating security groups and creating an elastic IP I was able to disable public access to the VPN allowing only the users I created to use the private, safe network.</p>
           <img src="awsconsole.png" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="e2instance.png" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="awsdescription.png" alt="Proof of Completion" width="250" height="150" border="2" />
@@ -84,7 +84,7 @@ This repository displays the technical skills I have learned throughout the last
           <li>Using basic and complex commands</li>
           <li>Exploring automation</li>
           <li>Able to create visualizations to easily aggregate data</li>
-<p>This course served its purpose as a quick training on Powershell. After running Powershell on my laptop and working the video's individually, I understood how to run my personal commands very easily after looking further into the basic capabilities. This course on LinkedIn provided me assistance with simple navigation, to learning from the actual software from the supportive help system and the adptable snap-ins, to even understanding and extending onto remote management.</p>
+<p>This course allowed me to not only understand what Powershell is, but also the basic navigations and capabilities. This course was provided on LinkedIn Leaning and assisted me with labs and assignments to master simple navigation and utilizing the actual software like the help system, snap-ins and remote management. </p>
           <br />
           <img src="powershell.png" alt="Proof of Completion" width="300" height="250" border="2" />
    </ul>
