@@ -4,13 +4,13 @@
 
 This repository displays the technical skills I have learned throughout the last few months. 
 
-<details><summary> Github</summary>
+<details><summary>Github</summary>
      <ul>
           <b>First Day on GitHub</b>
-          <li>Introduction to GitHub</li>
+          <li>Introduction to GitHub and its uses</li>
           <li>Communicating using Markdown</li>
           <li>Uploading your project on GitHub</li>
-<p>In summary, this course has taught me how to navigate around GitHub. The navigation was focused on uploading projects/ files with data that was on my local desktop. Furthermore, it taught me how to communicate with other users and do group projects to join files creating a shared project.</p>
+<p>In summary, this course has taught me how to navigate around GitHub. The navigation was focused on uploading files with data that was on my local desktop. Furthermore, it taught me how to communicate with other users to do group projects that are shared as well as utilizing my own text formatting. More information on this course can be found <a href="https://lab.github.com/githubtraining/paths/first-day-on-github">here.</a> </p>
           <br />
           <img src="FirstDay.png" alt="Proof of Completion" width="200" height="150" border="2" />
           <br />
@@ -19,18 +19,18 @@ This repository displays the technical skills I have learned throughout the last
           <li>Reviewing pull requests</li>
           <li>Managing merge conflicts</li>
           <li>Securing your workflows</li>
-<p>In summary, this course has taught me how to utilize uploading a project onto GitHub in a systematic manner. This is useful because I learned how to maximize my learning by using pull requests to see the changes I have made in the duration of my project. This is also useful for others to view my learning curve when viewing my projects.</p>
+<p>In summary, this course has taught me how to utilize uploading a project onto GitHub in a systematic manner. This is useful because I learned how maximize my utility within my projects by using pull requests to see the on going progress. Additionally, I now know how to use Github to be more efficient with unique workflows - both business and personal wise. This is also useful for others to view my learning curve when viewing my projects - in an organized secure manner. Through personalizing my pages I can create an online database to store all my files where others can benefit from too. The course is further detailed when clicked <a href="https://lab.github.com/githubtraining/paths/first-week-on-github">here.</a></p>
           <br />
           <img src="FirstWeek.png" alt="Proof of Completion" width="200" height="150" border="2" />
      </ul>
   </details>
-  <details><summary>TIBCO Spotfire</summary>
+  <details><summary>TIBCO Spotfire Cloud</summary>
      <ul>
           <b>Well Analysis Dashboard</b>
-          <li>Able to import data</li>
+          <li>Import multiple tables from multiple sources</li>
           <li>Able to script ironPython for advanced abilities</li>
           <li>Able to create visualizations to easily aggregate data</li>
-<p>I was introduced to TIBCO Spotfire at the start of my summer internship in 2019. With no prior experience, I was able to create a dashboard, to fit a clients needs. Using those skills, I was able to create another dashbaord using public data available on IHS Markit. To view a video I created to describe my dashboard, please click <a href="https://youtu.be/XMkqa9U6uO0">here.</a></p>
+<p>I was introduced to TIBCO Spotfire at the start of my summer internship in 2019. With no prior experience, I was able to create a dashboard template that would benefit multiple clients. Using those skills, I was able to create another dashbaord using public data available on IHS Markit. To view a video I created to describe my dashboard, please click <a href="https://youtu.be/XMkqa9U6uO0">here.</a></p>
           <br />
           <img src="home.png" alt="Proof of Completion" width="300" height="150" border="2" />
           <img src="summary.png" alt="Proof of Completion" width="300" height="150" border="2" />
@@ -43,15 +43,15 @@ This repository displays the technical skills I have learned throughout the last
           <li>Linux and open-source operating systems</li>
           <li>Navigating around Linux</li>
           <li>Security and file permissions</li>
-<p>This course was a 16-hour path towards learning the foundation of understanding and utilizing Linux. Not only did it teach me the importance and growth Linux is impacting with many businesses, but also how to use Linux for personal repositories. Understanding the command line will be an ongoing process but the course is very rewarding with many challenging labs (e.g. finding and searching for hardware information, or specific data in files, etc).</p>
+<p>This course was a 16-hour path towards learning the foundation of understanding and utilizing Linux. Not only did it teach me the importance and growth Linux is impacting with many businesses, but also how to use Linux for personal repositories. Understanding the command line facinated me to learn how to engage with my host device (personal laptop) to be of further use. The labs provided through the course included, but wasn't limited to, finding and searching for hardware information, looking for specific data in files or managing libraries on my desktop. I went ahead and challenged my Linux skills to help a Schlumberger employee to download multiple versions of different softwares (e.g. Petrel, Studio) to help him save space on his laptop, but still remain access to all his past projects.</p>
           <br />
           <img src="linuxEssentials.jpeg" alt="Proof of Completion" width="200" height="150" border="2" />
           <br/>
-          <b>Using linux for creating an Algo VPN using Digital Ocean</b>
-          <li>Downloaded VirtualBox to test my Linux knowledge</li>
-          <li>Downloaded Ubuntu and connected and installed it onto Virtual Box</li>
-          <li>Created a VPN network with usernames and passwords</li>
-<p>The point of this excersise was to challenging but useful to learn how to make my own VPN using DigitalOcean and a linux system. Whilst utilizing Ubuntu when installed into virtual box, I was able to share files from my host device (my laptop) to my virtual disk. Additionally, I created my own Algo VPN that, with my DigitalOcean supported IP network, to verify the connection. </p>
+          <b>Algo VPN using Digital Ocean</b>
+          <li>Use Linux on Oracle's VirtualBox</li>
+          <li>Connect Ubuntu with Oracle's VirtualBox</li>
+          <li>Created a VPN network using DigitalOcean</li>
+<p>The following pictures prove my sucess in configuring my own Algo VPN using DigitalOcean. This Linux system not only allowed me to create a virtual disk image on a Linux system, but also share files within my personal laptop and my virtual disk. DigitalOcean was the server  The point of this excersise was to challenging but useful to learn how to make my own VPN using DigitalOcean and a linux system. Whilst utilizing Ubuntu when installed into virtual box, I was able to share files from my host device (my laptop) to my virtual disk. Additionally, I created my own Algo VPN that, with my DigitalOcean supported IP network, to verify the connection. </p>
           <img src="done.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="proof of connection.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
           <img src="congrats.PNG" alt="Proof of Completion" width="250" height="150" border="2" />
@@ -84,7 +84,7 @@ This repository displays the technical skills I have learned throughout the last
           <li>Using basic and complex commands</li>
           <li>Exploring automation</li>
           <li>Able to create visualizations to easily aggregate data</li>
-<p>This course served its purpose as a quick training on Powershell however. After running Powershell on my laptop and working the video's individually, I understood how to run my personal commands very easily after looking further into the basic capabilities. This course on LinkedIn provided me assistance with simple navigation, to learning from the actual software from the supportive help system and the adptable snap-ins, to even understanding and extending onto remote management.</p>
+<p>This course served its purpose as a quick training on Powershell. After running Powershell on my laptop and working the video's individually, I understood how to run my personal commands very easily after looking further into the basic capabilities. This course on LinkedIn provided me assistance with simple navigation, to learning from the actual software from the supportive help system and the adptable snap-ins, to even understanding and extending onto remote management.</p>
           <br />
           <img src="powershell.png" alt="Proof of Completion" width="300" height="250" border="2" />
    </ul>
